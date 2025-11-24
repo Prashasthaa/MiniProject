@@ -68,7 +68,9 @@ Mini-project/
 │   │   ├── AcademicAlert.js
 │   │   └── TeacherRemark.js
 │   ├── routes/
+│   │   ├── ai.js
 │   │   ├── authRoutes.js
+│   │   ├── chatbot.js
 │   │   ├── studentRoutes.js
 │   │   ├── teacherRoutes.js
 │   │   └── parentRoutes.js
@@ -78,7 +80,8 @@ Mini-project/
 ├── frontend/
 │   ├── src/
 │   │   ├── components/
-│   │   │   └── Layout.jsx
+│   │   │   ├── Layout.jsx
+│   │   │   └── VoiceChatbot.jsx
 │   │   ├── context/
 │   │   │   └── AuthContext.jsx
 │   │   ├── pages/
